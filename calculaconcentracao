@@ -1,0 +1,9 @@
+# Calculo de concetração
+
+c1 = float(input("C1 = "))
+c2 = float(input("C2 = "))
+v2 = float(input("V2 = "))
+
+v1 = c2*v2/c1
+
+print("V1 =", v1)
